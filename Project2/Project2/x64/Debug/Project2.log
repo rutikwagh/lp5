@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\waghr\source\repos\Project2\Project2\Source.cpp(8,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\waghr\source\repos\Project2\Project2\Source.cpp(20,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\waghr\source\repos\Project2\Project2\Source.cpp(124,75): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\waghr\source\repos\Project2\Project2\Source.cpp(131,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Project2.vcxproj -> C:\Users\waghr\source\repos\Project2\x64\Debug\Project2.exe

@@ -1,4 +1,4 @@
-# vlp5
+#lp5
 
 ## Set the number of threads: 
 export OMP_NUM_THREADS=5
